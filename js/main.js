@@ -1,4 +1,5 @@
 console.dir(document)
+console.dir(window.location)
 
 document.getElementById("myHeading").innerHTML="ishaq"
 
